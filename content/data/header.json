@@ -74,7 +74,7 @@
     "secondaryLinks": [
         {
             "label": "Register",
-            "url": "/",
+            "url": "",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
