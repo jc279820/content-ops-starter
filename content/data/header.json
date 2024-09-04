@@ -74,7 +74,7 @@
     "secondaryLinks": [
         {
             "label": "Register",
-            "url": "",
+            "url": "https://api.whatsapp.com/send?phone=916355679766&text=Hello+Swapnil",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
